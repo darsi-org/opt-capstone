@@ -1,5 +1,8 @@
 # Capstone: an exam timetable that really works
 
+
+> **Darsi briefs are short on purpose.** The in-app lesson shows tight numbered clicks. This README keeps the full commands, error fixes, and background for each milestone — open the matching **Milestone N** section when you need detail.
+
 Build an exam timetable for a made-up school: independent validator first, OR-Tools CP-SAT model, kinder timetable via weighted wishes, a second model with HiGHS, and a Streamlit app staff can use with a what-if.
 
 [العربية](README.ar.md)
