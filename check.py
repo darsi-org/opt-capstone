@@ -35,8 +35,8 @@ SPEC = json.loads(r'''{
      "path": "tests/test_validate.py",
      "pattern": "def test_",
      "min": 4,
-     "en": "At least four validator tests, on the bad timetables",
-     "ar": "أربعة اختبارات للمدقّق على الأقل، على الجداول الخاطئة"
+     "en": "tests/test_validate.py has at least four tests (the timetables in tests/bad/)",
+     "ar": "في tests/test_validate.py أربعة اختبارات للمدقّق على الأقل (الجداول في tests/bad/)"
     }
    ]
   },
